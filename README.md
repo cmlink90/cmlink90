@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chris @cmlink90
-- 👀 I’m interested in all sorts of things. Programming. Mixed Martial Arts. Physical Fitness. Bourbon & Beer. and a gang of other things. ...
+- 👀 I’m interested in all sorts of things. Coding & Programming. Mixed Martial Arts. Physical Fitness. Bourbon & Beer. and a gang of other things. ...
 - 🌱 I’m currently learning front end web development, and plan on continuing into full-stack.
 - 💞️ I’m looking to collaborate on pretty much anything. Trying to get as much experience and exposure as possible. 
 - 📫 I can be reached on my linkedin at http://www.linkedin.com/in/christopherlink1.
