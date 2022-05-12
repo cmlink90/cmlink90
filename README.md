@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris Link @cmlink90
-- 👀 I’m interested in all sorts of things. Coding & Programming. Front-End Development. Mixed Martial Arts. Physical Fitness. Bourbon & Beer. and a gang of other things. ...
-- 🌱 I’m currently learning front end web development, and plan on continuing into full-stack.
+- 👀 I’m interested in all sorts of things. Coding & Programming. Front-End Development. Mixed Martial Arts. Physical Fitness. Bourbon & Beer. Rolling Dice. Having a Good Time. Eating Wonderful Food. and a gang of other things. ... Life is just GooD!
+- 🌱 I'm a front end developer, and I am currently learning full-stack.
 - 💞️ I’m looking to collaborate on pretty much anything. Trying to get as much experience and exposure as possible. 
 - 📫 I can be reached on my linkedin at http://www.linkedin.com/in/christopherlink1.
 
