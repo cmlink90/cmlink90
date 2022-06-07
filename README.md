@@ -1,4 +1,8 @@
+
+
 - 👋 Hi, I’m Chris Link @cmlink90
+<a href="https://app.daily.dev/cmlink90"><img src="https://api.daily.dev/devcards/d01c8116308343cabc41a76f110b1ef7.png?r=iye" width="400" alt="Chris Link's Dev Card"/></a>
+
 - 👀 I’m interested in all sorts of things. Coding & Programming. Front-End Development. Mixed Martial Arts. Physical Fitness. Bourbon & Beer. Rolling Dice. Having a Good Time. Eating Wonderful Food. and a gang of other things. ... Life is just GooD!
 - 🌱 I'm a front end developer, and I am currently learning full-stack.
 - 💞️ I’m looking to collaborate on pretty much anything. Trying to get as much experience and exposure as possible. 
